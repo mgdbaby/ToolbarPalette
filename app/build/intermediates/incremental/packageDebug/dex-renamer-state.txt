@@ -1,0 +1,7 @@
+#Fri Jan 06 15:57:26 CST 2017
+base.0=D\:\\Android\\ToolbarPalette2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_00bdbd9448d6cd6b1c9c65875a8b034a9e519ccc
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\Android\\ToolbarPalette2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_cedd8eba259023a2a0f2bd4368551e53a42de7bd\\classes.dex
+base.1=D\:\\Android\\ToolbarPalette2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_cedd8eba259023a2a0f2bd4368551e53a42de7bd
+file.0=D\:\\Android\\ToolbarPalette2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_00bdbd9448d6cd6b1c9c65875a8b034a9e519ccc\\classes.dex

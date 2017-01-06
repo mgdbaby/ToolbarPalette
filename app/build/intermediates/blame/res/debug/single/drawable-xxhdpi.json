@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Android\\ToolbarPalette2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\content.png",
+        "source": "D:\\Android\\ToolbarPalette2\\app\\src\\main\\res\\drawable-xxhdpi\\content.png"
+    },
+    {
+        "merged": "D:\\Android\\ToolbarPalette2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "D:\\Android\\ToolbarPalette2\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\ToolbarPalette2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\drawer.png",
+        "source": "D:\\Android\\ToolbarPalette2\\app\\src\\main\\res\\drawable-xxhdpi\\drawer.png"
+    }
+]

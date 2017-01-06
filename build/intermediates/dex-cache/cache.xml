@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Java\SDK\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0-alpha2\support-annotations-24.0.0-alpha2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8071e1e6cd07e9253720313d6c14286a7ee424e0">
+        <dex dex="D:\Android\ToolbarPalette2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0-alpha2_a3f7fa86f1795a095f2e0362a80b3463197c8410\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\ToolbarPalette2\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="32ab8bede8cd600f25a5bb3fe15068c81c8910dc">
+        <dex dex="D:\Android\ToolbarPalette2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0-alpha2_4b685d7c0764c0e71ec311946cf272d1189b98ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\ToolbarPalette2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0-alpha2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="661a632c3b434991d6364690cbe0f786371101cc">
+        <dex dex="D:\Android\ToolbarPalette2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0-alpha2_bdbf27e481195938d9fd0631a6f2391270b33edd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\ToolbarPalette2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="D:\Android\ToolbarPalette2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.1_3893a99248437d2d3b8598e4a72ccafc6d3961d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\ToolbarPalette2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="66ff01e2f787b75301cf6a8168253ccc8ccf5f67">
+        <dex dex="D:\Android\ToolbarPalette2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_cedd8eba259023a2a0f2bd4368551e53a42de7bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\ToolbarPalette2\app\libs\android-support-v7-palette.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9525de14be5e537f1d9be9381b29d0bee8d54aad">
+        <dex dex="D:\Android\ToolbarPalette2\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v7-palette_c7725b9ec8f3d42e18c9d9198a805df852b0eee7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\ToolbarPalette2\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="D:\Android\ToolbarPalette2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.1.1_dc125fb86767d682a0bf76b941ab3484f788c2e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\ToolbarPalette2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0-alpha2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf5aa3b026d5b5fd9f4ab5e8cf13499b9e016dfb">
+        <dex dex="D:\Android\ToolbarPalette2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0-alpha2_0ff769b09afcda7e0483601e1e54697bd8dbefd2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\ToolbarPalette2\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha2\jars\libs\internal_impl-24.0.0-alpha2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e460bc069dfd21d22770cf2a2370c9021b9c98a2">
+        <dex dex="D:\Android\ToolbarPalette2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0-alpha2_db7e6d00fbec063e7cda98524d6a3bd338a68c11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\ToolbarPalette2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3deaf74de9f93fe3a6ce4640d5615e38f65f28ea">
+        <dex dex="D:\Android\ToolbarPalette2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_00bdbd9448d6cd6b1c9c65875a8b034a9e519ccc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\ToolbarPalette2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0-alpha2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="df7f6513d6e2aaa302bbac654807c6129b517090">
+        <dex dex="D:\Android\ToolbarPalette2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0-alpha2_32eb2647d3da9f18b98ecbabd6a1248ca571433e\classes.dex" />
+    </item>
+
+</items>
